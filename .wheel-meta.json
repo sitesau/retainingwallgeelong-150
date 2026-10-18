@@ -1,0 +1,22 @@
+{
+  "wheel_id": 428,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-150",
+  "project": "retaining-wall-geelong-5b52910b9dd87e4df742b5cb53eb33855483cc21",
+  "parent_t1_ref": "retainingwallgeelong-005",
+  "node_role": "buffer",
+  "money_target": "retainingwallgeelong.com.au",
+  "primary_kw": "retaining wall geelong",
+  "intended_url": "https://sitesau.github.io/retainingwallgeelong-150/",
+  "tier": "T2",
+  "writeback_nonce": "f4237efc1b8987b8",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-geelong/",
+      "anchor": "Retaining Wall Geelong: Checks Before You Quote",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
